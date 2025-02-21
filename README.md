@@ -34,10 +34,10 @@ I'm currently working on MLOps, exploring efficient model deployment strategies,
 
 📫 Let's Connect!
 
-💼 LinkedIn
+💼 LinkedIn: www.linkedin.com/in/dhyanendra-singh
 
-📝 Medium/Blog
+📝 Medium/Blog: https://medium.com/@dhyanendra.singh
 
-📧 Email: dhyanendra@example.com
+📧 Email: dhyanendra.manit@gmail.com
 
 Let's collaborate and build something awesome! 🚀

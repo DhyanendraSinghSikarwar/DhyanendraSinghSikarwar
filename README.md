@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there, I'm Dhyanendra! 👋
 
-<!--
-**DhyanendraSinghSikarwar/DhyanendraSinghSikarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineer at Codenote, specializing in Python, SQL database optimization, and data analysis with Pandas. My work primarily involves optimizing SQL databases, building efficient data pipelines, and leveraging machine learning models for financial data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Do
+
+🏦 Financial Data Engineering – Working with large-scale transaction data from European banks.
+
+🤖 Machine Learning & AI – Applying XGBoost, Pandas, and NumPy for transaction categorization.
+
+🛠 Web Development – Building and maintaining Django and Flask applications.
+
+⚙️ Optimization – Enhancing Pandas performance and multiprocessing for large datasets.
+
+🌍 MLOps & Deployment – Exploring AWS, Jenkins, Docker, and CI/CD pipelines.
+
+🔨 Tech Stack
+
+Languages: Python, SQL
+
+Databases: MySQL, PostgreSQL
+
+Libraries & Frameworks: Django, Flask, Pandas, NumPy, XGBoost
+
+DevOps & Cloud: AWS, Docker, Jenkins, CI/CD
+
+Tools: Git, Postman, Linux
+
+📈 My Current Focus
+
+I'm currently working on MLOps, exploring efficient model deployment strategies, and fine-tuning transaction categorization pipelines. I’m also integrating AppSignal into Django applications for better monitoring.
+
+📫 Let's Connect!
+
+💼 LinkedIn
+
+📝 Medium/Blog
+
+📧 Email: dhyanendra@example.com
+
+Let's collaborate and build something awesome! 🚀

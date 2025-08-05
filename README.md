@@ -85,7 +85,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: dhyanendra.manit@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/dhyanendra)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhyanendra-singh/)
 - 💻 [GitHub](https://github.com/DhyanendraSinghSikarwar)
 - ✍️ [Medium](https://medium.com/@dhyanendra.singh)
 - 📞 Phone: +91 8054276810

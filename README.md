@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 3+ years of experience in **Data Science, Machine Learning, and Web Development**
+- 💼 4+ years of experience in **Data Science, Machine Learning, and Web Development**
 - 📈 Currently working on European financial market data to determine Kreditz scores for loan eligibility
 - ⚡ Optimized code to reduce processing time by over 50% in current role
 - 🌱 Passionate about data optimization, machine learning, and building scalable applications
